@@ -1,16 +1,9 @@
 {
-  "debug": {
-    "version_code":2001,
-    "version_name":"1.20 debug",
-    "date":"29.09.2018",
-    "description":"• Test debug version;",
-    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver2.12.apk"]
-  },
   "release": {
-    "version_code":3112,
-    "version_name":"3.112",
-    "date":"26.08.2020",
-    "description":"\n• [TOUCH][TV] фикс videocdn;\n• [TOUCH][TV] фикс ustore;\n• [TOUCH][TV] фикс hdrezka;\n• багфиксы;",
-    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.112.apk"]
+    "version_code":3114,
+    "version_name":"3.114",
+    "date":"01.09.2020",
+    "description":"\n• [TOUCH][TV] фикс ustore;\n• [TV] фикс themoviedb;\n• багфиксы;",
+    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.114.apk"]
   }
 }

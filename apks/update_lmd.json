@@ -4,6 +4,6 @@
     "version_name":"3.114",
     "date":"01.09.2020",
     "description":"\n• [TOUCH][TV] фикс ustore;\n• [TV] фикс themoviedb;\n• багфиксы;",
-    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.114.apk"]
+    "urls":["https://raw.githubusercontent.com/lazycatsoft/lmd/master/apks/LazyMediaDeluxe_ver3.114.apk"]
   }
 }

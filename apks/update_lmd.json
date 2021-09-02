@@ -4,13 +4,13 @@
     "version_name":"1.20 debug",
     "date":"29.09.2018",
     "description":"• Test debug version;",
-    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver2.12.apk"]
+    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.xxx.apk"]
   },
   "release": {
-    "version_code":3133,
-    "version_name":"3.133",
-    "date":"29.11.2020",
-    "description":"\n • [TOUCH][TV] фикс filmix (блокировка в ru);\n• [TOUCH][TV] фикс hdrezka (недоступность некоторых видео);\n• [TOUCH][TV] удален сервис fanserial;\n• багфиксы;",
-    "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.133.apk"]
+    "version_code":3179,
+    "version_name":"3.179",
+    "date":"02.09.2020",
+    "description":"• [TOUCH][TV] fix kodik;\n• [TOUCH][TV] fix kinogo (фильмы);\n• [TOUCH][TV] удален альтернативный доступ(сервисы-доноры не работают);\n• [TOUCH][TV] удалены настройки зеркал, там где они не используются(filmix,zona,zombie);\n• багфиксы;",
+    "urls":["http://sh2640575.b.had.su/apks/LazyMediaDeluxe_ver3.179.apk"]
   }
 }

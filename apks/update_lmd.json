@@ -7,10 +7,10 @@
     "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.xxx.apk"]
   },
   "release": {
-    "version_code":3179,
-    "version_name":"3.179",
-    "date":"02.09.2020",
-    "description":"• [TOUCH][TV] fix kodik;\n• [TOUCH][TV] fix kinogo (фильмы);\n• [TOUCH][TV] удален альтернативный доступ(сервисы-доноры не работают);\n• [TOUCH][TV] удалены настройки зеркал, там где они не используются(filmix,zona,zombie);\n• багфиксы;",
-    "urls":["http://sh2640575.b.had.su/apks/LazyMediaDeluxe_ver3.179.apk"]
+    "version_code":3210,
+    "version_name":"3.210",
+    "date":"11.02.2022",
+    "description":"• [TOUCH][TV] fix filmix;\n• [TOUCH][TV] добавлен источник торрентов jac.red;\n• багфиксы;",
+    "urls":["http://sh2640575.b.had.su/apks/LazyMediaDeluxe_ver3.210.apk"]
   }
 }

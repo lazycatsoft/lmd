@@ -5,20 +5,16 @@
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
-            "url": "http://rezkily.com",
-            "mirrors": "http://rezkily.com,http://metaivi.com,http://cokinopoisk.com,http://hdrezkanew.com,http://hdrezkahd.com,https://rezka.ag"
-        },
-        "encyclopedia":{
-            "url": "https://my-hit.org",
-            "mirrors": "https://my-hit.org"
+            "url": "http://ikinopoisk.com",
+            "mirrors": "http://ikinopoisk.com,http://kinopub.me,http://akinopoisk.com,http://rezkily.com,http://metaivi.com,http://cokinopoisk.com,http://hdrezkanew.com,http://hdrezkahd.com,https://rezka.ag"
         },
         "zona":{
             "url": "https://w1.zonaplus.tv",
-            "mirrors": "https://w1.zonaplus.tv,https://w122.zona.plus,http://android.mzona.net"
+            "mirrors": "https://w1.zonaplus.tv,https://w125.zona.plus,http://android.mzona.net"
         },
         "kinolive":{
-            "url": "http://kino-live1.org",
-            "mirrors": "http://kino-live1.org,http://k35n.live2.pw,http://kino-live2.org"
+            "url": "http://k38n.live2.pw",
+            "mirrors": "http://k37n.live2.pw,http://k35n.live2.pw,http://kino-live1.org,http://kino-live2.org"
         },
         "bigfilm":{
             "url": "https://bigfilm.tv",
@@ -26,34 +22,22 @@
         },
         "kinovhd":{
             "url": "https://hdru.net",
-            "mirrors": "https://hdru.net,http://hdone.net,https://kinovhd.tv,http://kinovhd.net,https://kino-v-hd.com"
+            "mirrors": "https://hdru.net"
         },
         "octopus":{
-            "url": "http://m.ultradox.site",
-            "mirrors": "http://m.ultradox.site,http://octofilm.pw,http://octodb.info,http://octodb.net,http://octobaza.com,http://octopushome.org,http://octopushome.su"
-        },
-        "k4film":{
-            "url": "http://4kfilm.online",
-            "mirrors": "http://4kfilm.online,http://4kfilm.online.http.w2.wbprx.com"
+            "url": "http://n.ultradox.best",
+            "mirrors": "http://n.ultradox.best,http://octofilm.pw,http://octodb.info,http://octodb.net,http://octobaza.com,http://octopushome.org,http://octopushome.su"
         },
         "kinogo":{
             "url": "https://kinogo.la",
             "mirrors": "https://kinogo.la"
-        },
-        "fanserials":{
-            "url": "http://fanserial.net",
-            "mirrors": "https://fanserial.net,http://fanserials.auction,http://fanserial.net,http://fanserials.market"
-        },
-        "kinomonster":{
-            "url": "https://1.kinobum.us",
-            "mirrors": "https://1.kinobum.us,http://kinomonster.org"
         }        
     },
 
     "trackers":{
         "rutor":{
             "url": "http://rutor.info",
-            "mirrors": "http://rutor.info,http://agava.herrutor.org,http://pipitor.org"
+            "mirrors": "http://www.1.xrutor.org,http://rutor.info,http://agava.herrutor.org,http://pipitor.org"
         },
         "torrentfinder":{
             "url": "https://ahoy.yohoho.cc",
@@ -64,8 +48,8 @@
             "mirrors": "http://lmd.megapeer.ru,http://megapeer.ru"
         },
         "piratbit":{
-            "url": "https://pb.wtf",
-            "mirrors": "https://pb.wtf,https://piratbit.top"
+            "url": "http://lazy.piratbit.fun",
+            "mirrors": "http://lazy.piratbit.fun,https://pb.wtf,https://piratbit.top"
         },
         "gtorrent":{
             "url": "http://gtorrent.pro",
@@ -85,32 +69,30 @@
         },
         "labtor":{
             "url": "https://westor.org",
-            "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv,https://playtor.tv"
+            "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv"
         }
     },
 
     "params":{
-        "ustore_api": "https://{domain}/dev.php?hash={hash}&id={id}",
-        "ustore_keys1": "qsefthzxQSEFTHZX82367,plijymknPLIJYMKN91450",
-        "ustore_keys2": "WO87FXYEZP4abQ2cdR0efS9ghTHijUK,k6lBmCnJoMpGq3rAsLt1uNv5wDxIyVz",
         "kodik_hash": "vbWENyTwIn8I",
-        "kodik_playerurl": "https://aniqit.com/video-player",
-        "bazon_keys": "@aMXY7LUF1MEE=,@aMkhVN3NJIS0=,@aNGswVSlWfng=,@adSM2UjI7bUo=,@aYWQ1MyNGO0I=",
-        "filmix_poster": "http://filmix.vip:8080"
+        "kodik_playerurl": "https://kodik.cc/gvi",
+        "videocdn_api": "disable",
+        "fs_": "",
+        "filmix_poster_": "http://185.238.169.142:8080"
     },    
 
    "player_ads":{
         "active": true,
         "count": 2,
         "period_min": 2,
-        "vast": "https://ads.smartoo.tv/dsp.aspx?rct=3&zone=172f2aba-eb7a-447d-9da3-6b01de2d0355&zoneInt=34077&sect=10688&site=8506&rnd=[CACHEBUSTING]&domain=lazymedia.delux"
+        "vast": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
     },
     
     "ads" : {
        "hdvb":{
           "active": true,
           "count": 2,
-          "period_min": 5,
+          "period_min": 2,
           "vast": "https://aj1907.online/zbMLFDieJH9FXhkRKjUpECBV44hrmfo5U9h1dUnfkidGdJ7J9ejhW2YsU-o9FAEpK18W61G5P8RtukcHkEPbXuDEu_vmBMPw"
        },
       "filmix":{
@@ -118,6 +100,12 @@
           "count": 1,
           "period_min": 1,
           "vast": "https://z.cdn.trafficbass.com/load?o=v&z=1410928653&url=lazycatsoftware.com&random=[random]"
+       },
+      "kinogo":{
+          "active": true,
+          "count": 1,
+          "period_min": 1,
+          "vast": "https://vast4.kinogo.la/code/video-steam/?id=667&vast=3"
        }
     }
 }

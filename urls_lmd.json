@@ -25,18 +25,22 @@
             "mirrors": "https://hdru.net"
         },
         "octopus":{
-            "url": "http://n.ultradox.best",
-            "mirrors": "http://n.ultradox.best,http://octofilm.pw,http://octodb.info,http://octodb.net,http://octobaza.com,http://octopushome.org,http://octopushome.su"
+            "url": "http://my.ultradox.name",
+            "mirrors": "http://my.ultradox.name"
         },
         "kinogo":{
             "url": "https://kinogo.la",
             "mirrors": "https://kinogo.la"
-        }        
+        },
+        "lordfilm":{
+            "url": "https://q.10film.top",
+            "mirrors": "https://q.10film.top"
+        }       
     },
 
     "trackers":{
         "rutor":{
-            "url": "http://rutor.info",
+            "url": "http://www.1.xrutor.org",
             "mirrors": "http://www.1.xrutor.org,http://rutor.info,http://agava.herrutor.org,http://pipitor.org"
         },
         "torrentfinder":{
@@ -78,7 +82,7 @@
         "kodik_playerurl": "https://kodik.cc/gvi",
         "videocdn_api": "disable",
         "fs_": "",
-        "filmix_poster_": "http://185.238.169.142:8080"
+        "filmix_poster": "http://185.238.169.142:8080"
     },    
 
    "player_ads":{

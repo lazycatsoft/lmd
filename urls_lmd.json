@@ -5,8 +5,8 @@
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
-            "url": "http://ikinopoisk.com",
-            "mirrors": "http://ikinopoisk.com,http://kinopub.me,http://akinopoisk.com,http://rezkily.com,http://metaivi.com,http://cokinopoisk.com,http://hdrezkanew.com,http://hdrezkahd.com,https://rezka.ag"
+            "url": "http://rd8j1em1zxge.org",
+            "mirrors": "http://hdrezkarty.org,http://ikinopoisk.com,http://kinopub.me,http://akinopoisk.com,http://rezkily.com,http://metaivi.com,http://cokinopoisk.com,http://hdrezkanew.com,http://hdrezkahd.com,https://rezka.ag"
         },
         "zona":{
             "url": "https://w1.zonaplus.tv",
@@ -25,16 +25,16 @@
             "mirrors": "https://hdru.net"
         },
         "octopus":{
-            "url": "http://my.ultradox.name",
-            "mirrors": "http://my.ultradox.name"
+            "url": "http://my.ultradox.asia",
+            "mirrors": "http://my.ultradox.asia,http://my.ultradox.name"
         },
         "kinogo":{
-            "url": "https://kinogo.la",
-            "mirrors": "https://kinogo.la"
+            "url": "https://s3.kinogo.lu",
+            "mirrors": "https://kinogo.la,https://s3.kinogo.lu"
         },
         "lordfilm":{
-            "url": "https://r.10film.top",
-            "mirrors": "https://r.10film.top"
+            "url": "na",
+            "mirrors": "https://g.mxfilm.es"
         }       
     },
 
@@ -60,8 +60,8 @@
             "mirrors": "http://gtorrent.pro,http://gtorrent.tv"
         },
         "videoplenka":{
-            "url": "https://tor.lafa.site",
-            "mirrors": "https://tor.lafa.site,https://videoplenka.info"
+            "url": "https://t.lafa.site",
+            "mirrors": "https://t.lafa.site,https://videoplenka.info"
         },
         "torlook":{
             "url": "https://torlook.info",

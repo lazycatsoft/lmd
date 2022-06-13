@@ -5,12 +5,8 @@
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
-            "url": "http://hdrezkay3my3e.net",
+            "url": "http://hdrezka19139.org",
             "mirrors": "http://hdrezkarty.org,http://ikinopoisk.com,http://kinopub.me,http://metaivi.com,http://hdrezkahd.com,https://rezka.ag"
-        },
-        "zona":{
-            "url": "https://w1.zonaplus.tv",
-            "mirrors": "https://w1.zonaplus.tv,https://w125.zona.plus,http://android.mzona.net"
         },
         "kinolive":{
             "url": "http://k38n.live2.pw",
@@ -31,11 +27,7 @@
         "kinogo":{
             "url": "https://s3.kinogo.lu",
             "mirrors": "https://kinogo.la,https://s3.kinogo.lu"
-        },
-        "lordfilm":{
-            "url": "na",
-            "mirrors": "https://g.mxfilm.es"
-        }       
+        }     
     },
 
     "trackers":{
@@ -71,6 +63,10 @@
             "url": "https://apibay.org",
             "mirrors": "https://apibay.org"
         },
+        "underverse":{
+            "url": "notwork",
+            "mirrors": "notwork"
+        },
         "labtor":{
             "url": "https://westor.org",
             "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv"
@@ -82,7 +78,7 @@
         "kodik_playerurl": "https://kodik.cc/gvi",
         "videocdn_api": "disable",
         "fs_": "",
-        "filmix_poster": "http://185.238.169.142:8080"
+        "filmix_poster": "http://filmix.tech:8080"
     },    
 
    "player_ads":{

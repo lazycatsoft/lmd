@@ -5,34 +5,34 @@
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
-            "url": "http://hdrezka19139.org",
-            "mirrors": "http://hdrezkarty.org,http://ikinopoisk.com,http://kinopub.me,http://metaivi.com,http://hdrezkahd.com,https://rezka.ag"
+            "url": "http://hdrezkadjuu21.org",
+            "mirrors": "http://hdrezkadjuu21.org,http://kinopub.me,https://rezka.ag"
         },
-        "kinolive":{
-            "url": "http://k38n.live2.pw",
-            "mirrors": "http://k37n.live2.pw,http://k35n.live2.pw,http://kino-live1.org,http://kino-live2.org"
+        "kinovod":{
+            "url": "https://kinovod040423.cc",
+            "mirrors": "https://kinovod497.cc,https://kinovod040423.cc,https://kinovod.net"
         },
-        "bigfilm":{
-            "url": "https://bigfilm.tv",
-            "mirrors": "https://bigfilm.tv"
+        "filmozavr":{
+            "url": "https://filmozavr.space",
+            "mirrors": "https://filmozavr.space,http://filmozavr-hd.com,https://filmozavr.net,https://filmozavr.com,https://filmozavr.ru"
         },
         "kinovhd":{
             "url": "https://hdru.net",
             "mirrors": "https://hdru.net"
         },
         "octopus":{
-            "url": "http://my.ultradox.be",
-            "mirrors": "http://my.ultradox.be,http://my.ultradox.name"
+            "url": "http://my.ultradox.website",
+            "mirrors": "http://my.ultradox.be,http://my.ultradox.life"
         },
         "kinogo":{
-            "url": "https://s3.kinogo.lu",
-            "mirrors": "https://kinogo.la,https://s3.kinogo.lu"
+            "url": "https://s9.kinogo.lu",
+            "mirrors": "https://kinogo.la,https://s9.kinogo.lu"
         }     
     },
 
     "trackers":{
         "rutor":{
-            "url": "http://www.1.xrutor.org",
+            "url": "http://rutor.info",
             "mirrors": "http://www.1.xrutor.org,http://rutor.info,http://agava.herrutor.org,http://pipitor.org"
         },
         "torrentfinder":{
@@ -52,12 +52,12 @@
             "mirrors": "http://gtorrent.pro,http://gtorrent.tv"
         },
         "videoplenka":{
-            "url": "https://t.lafa.site",
-            "mirrors": "https://t.lafa.site,https://videoplenka.info"
+            "url": "https://tor.lafa.site",
+            "mirrors": "https://tor.lafa.site"
         },
         "torlook":{
-            "url": "https://torlook.info",
-            "mirrors": "https://torlook.info"
+            "url": "notuse",
+            "mirrors": "torlook.infonotuse"
         },
         "piratbay":{
             "url": "https://apibay.org",
@@ -70,15 +70,19 @@
         "labtor":{
             "url": "https://westor.org",
             "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv"
+        },
+        "jackett":{
+            "url": "jacred.cf",
+            "mirrors": "jacred.cf"
         }
     },
 
     "params":{
-        "kodik_hash": "vbWENyTwIn8I",
+        "kodik_hash_": "vbWENyTwIn8I",
         "kodik_playerurl": "https://kodik.cc/gvi",
         "videocdn_api": "disable",
         "fs_": "",
-        "filmix_poster": "http://filmix.tech:8080"
+        "filmix_poster2_": "https://thumbs.filmix.zone/posters/thumbs/w220/"
     },    
 
    "player_ads":{

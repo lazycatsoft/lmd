@@ -5,29 +5,29 @@
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
-            "url": "http://hdrezkadjuu21.org",
-            "mirrors": "http://hdrezkadjuu21.org,http://kinopub.me,https://rezka.ag"
+            "url": "https://hdrezka390bk3.org",
+            "mirrors": "https://rezkify.com,http://kinopub.me,https://rezka.ag"
         },
         "kinovod":{
-            "url": "https://kinovod040423.cc",
-            "mirrors": "https://kinovod497.cc,https://kinovod040423.cc,https://kinovod.net"
+            "url": "https://kinovod.net",
+            "mirrors": "https://kinovod.net"
         },
-        "filmozavr":{
-            "url": "https://filmozavr.space",
-            "mirrors": "https://filmozavr.space,http://filmozavr-hd.com,https://filmozavr.net,https://filmozavr.com,https://filmozavr.ru"
+        "zetflix":{
+            "url": "https://go.online-zetflix.net",
+            "mirrors": "https://go.online-zetflix.net,https://go.zetfix.online"
+        },
+        "lostfilm":{
+            "url": "https://lostfilmaa.net",
+            "mirrors": "https://lostfilmaa.net,http://lostfilma.net,https://lostfilm-a.online,https://lostfilma.run"
         },
         "kinovhd":{
             "url": "https://hdru.net",
             "mirrors": "https://hdru.net"
         },
         "octopus":{
-            "url": "http://my.ultradox.website",
-            "mirrors": "http://my.ultradox.be,http://my.ultradox.life"
-        },
-        "kinogo":{
-            "url": "https://s9.kinogo.lu",
-            "mirrors": "https://kinogo.la,https://s9.kinogo.lu"
-        }     
+            "url": "http://my.ultradox.host",
+            "mirrors": "https://my.ultradox.host"
+        } 
     },
 
     "trackers":{
@@ -36,7 +36,7 @@
             "mirrors": "http://www.1.xrutor.org,http://rutor.info,http://agava.herrutor.org,http://pipitor.org"
         },
         "torrentfinder":{
-            "url": "https://ahoy.yohoho.cc",
+            "url": "notuse",
             "mirrors": "https://ahoy.yohoho.cc,https://ahoy.yohoho.online"
         },
         "megapeer":{
@@ -48,12 +48,12 @@
             "mirrors": "http://lazy.piratbit.fun,https://pb.wtf,https://piratbit.top"
         },
         "gtorrent":{
-            "url": "http://gtorrent.pro",
-            "mirrors": "http://gtorrent.pro,http://gtorrent.tv"
+            "url": "notuse",
+            "mirrors": "http://gtorrent.club"
         },
         "videoplenka":{
-            "url": "https://tor.lafa.site",
-            "mirrors": "https://tor.lafa.site"
+            "url": "https://vkino.lafa.site",
+            "mirrors": "https://vkino.lafa.site"
         },
         "torlook":{
             "url": "notuse",
@@ -72,8 +72,12 @@
             "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv"
         },
         "jackett":{
-            "url": "jacred.cf",
-            "mirrors": "jacred.cf"
+            "url": "jacred.ru:web",
+            "mirrors": "jacred.ru:web,188.119.113.252:9117:1"
+        },
+        "jackettv2":{
+            "url": "188.119.113.252:9117:1",
+            "mirrors": "188.119.113.252:9117:1"
         }
     },
 
@@ -82,21 +86,21 @@
         "kodik_playerurl": "https://kodik.cc/gvi",
         "videocdn_api": "disable",
         "fs_": "",
-        "filmix_poster2_": "https://thumbs.filmix.zone/posters/thumbs/w220/"
+        "filmix_poster2_": "http://thumbs.filmixapp.cyou/posters/thumbs/w220/"
     },    
 
    "player_ads":{
         "active": true,
-        "count": 2,
-        "period_min": 2,
+        "count": 1,
+        "period_min": 1,
         "vast": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
     },
     
     "ads" : {
        "hdvb":{
           "active": true,
-          "count": 2,
-          "period_min": 2,
+          "count": 1,
+          "period_min": 1,
           "vast": "https://aj1907.online/zbMLFDieJH9FXhkRKjUpECBV44hrmfo5U9h1dUnfkidGdJ7J9ejhW2YsU-o9FAEpK18W61G5P8RtukcHkEPbXuDEu_vmBMPw"
        },
       "filmix":{

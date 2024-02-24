@@ -5,25 +5,29 @@
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
-            "url": "https://hdrezka390bk3.org",
-            "mirrors": "https://rezkify.com,http://kinopub.me,https://rezka.ag"
+            "url": "internal",
+            "mirrors": "https://rezkify.com,http://kinopub.me,https://rezka.ag,internal"
         },
         "kinovod":{
             "url": "https://kinovod.net",
             "mirrors": "https://kinovod.net"
         },
         "zetflix":{
-            "url": "https://go.online-zetflix.net",
-            "mirrors": "https://go.online-zetflix.net,https://go.zetfix.online"
+            "url": "https://zetflix-online.co",
+            "mirrors": "https://zetflix-online.co,https://go.zetfix.online,https://zeflix-online.net"
         },
         "lostfilm":{
             "url": "https://lostfilmaa.net",
             "mirrors": "https://lostfilmaa.net,http://lostfilma.net,https://lostfilm-a.online,https://lostfilma.run"
         },
-        "kinovhd":{
-            "url": "https://hdru.net",
-            "mirrors": "https://hdru.net"
+        "seasonvar":{
+            "url": "https://seasonvar.zone",
+            "mirrors": "https://seasonvar.zone"
         },
+        "kinogo":{
+            "url": "https://kinogo.at",
+            "mirrors": "https://kinogo.at"
+        },        
         "octopus":{
             "url": "http://my.ultradox.host",
             "mirrors": "https://my.ultradox.host"
@@ -83,9 +87,9 @@
 
     "params":{
         "kodik_hash_": "vbWENyTwIn8I",
-        "kodik_playerurl": "https://kodik.cc/gvi",
+        "kodik_playerurl_": "http://kodik.info/tor",
         "videocdn_api": "disable",
-        "fs_": "",
+        "zetflix_api_": "#JTk5PT53YmIuIj8+PT8iNTRjIj8qYnIlOTk9Pmh+DGh/C2h/CyEiPykrISQ1PmMjKDlofwskPSEsNCg/aH8LOyQpKCIpL2M9JT1ofgsmPWh+CTY+MDElOTk9PndiYjo6OmMqIiIqIShjLiIgYjF9",
         "filmix_poster2_": "http://thumbs.filmixapp.cyou/posters/thumbs/w220/"
     },    
 
@@ -93,6 +97,7 @@
         "active": true,
         "count": 1,
         "period_min": 1,
+        "vast_playmatic": "https://vast.playmatic.video/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
         "vast": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
     },
     

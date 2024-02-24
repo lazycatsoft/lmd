@@ -7,10 +7,10 @@
     "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.xxx.apk"]
   },
   "release": {
-    "version_code":3281,
-    "version_name":"3.281",
-    "date":"09.09.2023",
-    "description":"• [TV][TOUCH] fix sesonvar;\n• [TV][TOUCH] fix балансеров;\n• [TV][TOUCH] fix zombie (добавлена возможность использования прокси);\n• багфиксы;",
-    "urls":["http://sh4618073.c.had.su/apks/LazyMediaDeluxe_ver3.281.apk"]
+    "version_code":3304,
+    "version_name":"3.304",
+    "date":"20.02.2024",
+    "description":"• [TV][TOUCH] исправления в балансерах и сервисах;\n• [TV][TOUCH] добавлен специализированный anime-балансер anilibra (по умолчанию выключен, активация вручную в настройках сервисов);\n• [TV][TOUCH] удален videodb;\n• [TV][TOUCH] удален lostfilm;;\n• багфиксы;",
+    "urls":["http://sh4618073.c.had.su/apks/LazyMediaDeluxe_ver3.304.apk"]
   }
 }

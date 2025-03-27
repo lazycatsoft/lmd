@@ -1,69 +1,49 @@
 {
     "services":{
+        "encyclopedia":{
+            "url": "https://zonafilm.ru",
+            "mirrors": "https://zonafilm.ru"
+        },
         "filmix":{
             "url": "https://filmix.ac",
             "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
         },
         "hdrezka":{
             "url": "internal",
-            "mirrors": "https://rezkify.com,http://kinopub.me,https://rezka.ag,internal"
+            "mirrors": "https://rezka.ag,https://hdrezka.ag,internal"
         },
         "kinovod":{
             "url": "https://kinovod.net",
             "mirrors": "https://kinovod.net"
         },
-        "zetflix":{
-            "url": "https://zetflix-online.co",
-            "mirrors": "https://zetflix-online.co,https://go.zetfix.online,https://zeflix-online.net"
-        },
-        "lostfilm":{
-            "url": "https://lostfilmaa.net",
-            "mirrors": "https://lostfilmaa.net,http://lostfilma.net,https://lostfilm-a.online,https://lostfilma.run"
-        },
         "seasonvar":{
             "url": "https://seasonvar.zone",
             "mirrors": "https://seasonvar.zone"
         },
-        "kinogo":{
-            "url": "https://kinogo.at",
-            "mirrors": "https://kinogo.at"
-        },        
         "octopus":{
-            "url": "http://my.ultradox.host",
-            "mirrors": "https://my.ultradox.host"
+            "url": "http://my.ultradox.fun",
+            "mirrors": "http://my.ultradox.fun,https://my.ultradox.host"
+        },        
+        "eneyida":{
+            "url": "https://eneyida.tv",
+            "mirrors": "https://5.61.50.35,https://eneyida.tv"
         } 
     },
 
     "trackers":{
         "rutor":{
             "url": "http://rutor.info",
-            "mirrors": "http://www.1.xrutor.org,http://rutor.info,http://agava.herrutor.org,http://pipitor.org"
-        },
-        "torrentfinder":{
-            "url": "notuse",
-            "mirrors": "https://ahoy.yohoho.cc,https://ahoy.yohoho.online"
+            "mirrors": "http://rutor.info,http://rutor.is"
         },
         "megapeer":{
             "url": "http://lmd.megapeer.ru",
             "mirrors": "http://lmd.megapeer.ru,http://megapeer.ru"
         },
-        "piratbit":{
-            "url": "http://lazy.piratbit.fun",
-            "mirrors": "http://lazy.piratbit.fun,https://pb.wtf,https://piratbit.top"
-        },
-        "gtorrent":{
-            "url": "notuse",
-            "mirrors": "http://gtorrent.club"
-        },
         "videoplenka":{
             "url": "https://vkino.lafa.site",
             "mirrors": "https://vkino.lafa.site"
         },
-        "torlook":{
-            "url": "notuse",
-            "mirrors": "torlook.infonotuse"
-        },
-        "piratbay":{
+        "piratbay_":{
             "url": "https://apibay.org",
             "mirrors": "https://apibay.org"
         },
@@ -76,29 +56,40 @@
             "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv"
         },
         "jackett":{
-            "url": "jacred.ru:web",
-            "mirrors": "jacred.ru:web,188.119.113.252:9117:1"
+            "url": "jacred.xyz:null",
+            "mirrors": "jacred.ru:web,jacred.xyz:null"
         },
         "jackettv2":{
-            "url": "188.119.113.252:9117:1",
-            "mirrors": "188.119.113.252:9117:1"
+            "url": "empty",
+            "mirrors": "empty"
         }
     },
 
     "params":{
+        "fs": "fnV5enUrdHV+eHl7enV9en51dSl1KHx/KCt9eSsoKHo=",
         "kodik_hash_": "vbWENyTwIn8I",
         "kodik_playerurl_": "http://kodik.info/tor",
-        "videocdn_api": "disable",
-        "zetflix_api_": "#JTk5PT53YmIuIj8+PT8iNTRjIj8qYnIlOTk9Pmh+DGh/C2h/CyEiPykrISQ1PmMjKDlofwskPSEsNCg/aH8LOyQpKCIpL2M9JT1ofgsmPWh+CTY+MDElOTk9PndiYjo6OmMqIiIqIShjLiIgYjF9",
-        "filmix_poster2_": "http://thumbs.filmixapp.cyou/posters/thumbs/w220/"
+        "cdnmovies_api": "disable",
+        "cdnm_api": "disable",
+        "cdnm_ref": "https://yandex.ru",
+        "fcdn_api": "disable",
+        "fcdn_search": "disable",
+        "ryho_api_": "disable",
+        "mbx_api_": "disable",
+        "emx_api": "disable",
+        "zombie_s": "ab",
+        "lumex_api_": "disable",
+        "cors_": "https://corsproxy.io/{s}",
+        "filmix_poster2_": "https://thumbs.filmix.tech/posters/thumbs/w220/"
     },    
 
    "player_ads":{
         "active": true,
         "count": 1,
         "period_min": 1,
+        "vast": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
         "vast_playmatic": "https://vast.playmatic.video/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
-        "vast": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
+        "vast_hdvb": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
     },
     
     "ads" : {

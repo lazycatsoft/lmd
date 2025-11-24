@@ -10,19 +10,15 @@
         },
         "hdrezka":{
             "url": "internal",
-            "mirrors": "https://rezka.ag,https://hdrezka.ag,internal"
+            "mirrors": "https://rezka.ag,https://hdrezka.ag,https://rezka-ua.org,internal"
         },
         "kinovod":{
             "url": "https://kinovod.net",
             "mirrors": "https://kinovod.net"
         },
-        "seasonvar":{
-            "url": "https://seasonvar.zone",
-            "mirrors": "https://seasonvar.zone"
-        },
         "octopus":{
-            "url": "http://my.ultradox.fun",
-            "mirrors": "http://my.ultradox.fun,https://my.ultradox.host"
+            "url": "https://5.ultadox.studio",
+            "mirrors": "https://5.ultadox.studio,http://my.ultradox.fun"
         },        
         "eneyida":{
             "url": "https://eneyida.tv",
@@ -39,21 +35,17 @@
             "url": "http://lmd.megapeer.ru",
             "mirrors": "http://lmd.megapeer.ru,http://megapeer.ru"
         },
-        "videoplenka":{
-            "url": "https://vkino.lafa.site",
-            "mirrors": "https://vkino.lafa.site"
+        "kinosearch":{
+            "url": "https://m2.frkp.site",
+            "mirrors": "https://m2.frkp.site"
+        },
+        "videoplenka_":{
+            "url": "disable",
+            "mirrors": "disable"
         },
         "piratbay_":{
             "url": "https://apibay.org",
             "mirrors": "https://apibay.org"
-        },
-        "underverse":{
-            "url": "notwork",
-            "mirrors": "notwork"
-        },
-        "labtor":{
-            "url": "https://westor.org",
-            "mirrors": "https://westor.org,https://tor19.labtor.tv,https://labtor.tv"
         },
         "jackett":{
             "url": "jacred.xyz:null",
@@ -66,28 +58,30 @@
     },
 
     "params":{
-        "fs": "fnV5enUrdHV+eHl7enV9en51dSl1KHx/KCt9eSsoKHo=",
-        "kodik_hash_": "vbWENyTwIn8I",
-        "kodik_playerurl_": "http://kodik.info/tor",
-        "cdnmovies_api": "disable",
-        "cdnm_api": "disable",
-        "cdnm_ref": "https://yandex.ru",
-        "fcdn_api": "disable",
-        "fcdn_search": "disable",
+        "fs": "KH0rfH5+Ky97Lyt1eil7Lnx/e3V4Li56Ln58ei4oLnk=",
+        "kodik_playerurl_": "disable",
         "ryho_api_": "disable",
         "mbx_api_": "disable",
-        "emx_api": "disable",
-        "zombie_s": "ab",
-        "lumex_api_": "disable",
-        "cors_": "https://corsproxy.io/{s}",
-        "filmix_poster2_": "https://thumbs.filmix.tech/posters/thumbs/w220/"
+        "zombie_s": "-",
+        "lumex_api": "disable",  
+        "velour_api_": "disable",  
+        "cvh_api_": "disable",  
+        "alloha_api": "disable",   
+        "alloha_meta_": "tokens: '||'",
+        "alloha_hac": "Baer-Controls",
+        "siren_api_movie": "disable", 
+        "siren_api_series": "disable", 
+        "cors_": "",
+        "filmix_poster2_": "https://thumbs.filmix.zone/posters/thumbs/w220/"
     },    
 
    "player_ads":{
         "active": true,
         "count": 1,
         "period_min": 1,
-        "vast": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
+        "vast": "https://cvt-s2.agl007.site/v/_jMvMzhiZTM1NDItOGE2OCWWMGYyL-I5NDItYzYWMTU5MDVlNzNh.xml?cp.host=8a146324c56b4441b80ae3e724b801fd%7Clazymedia&cp.domain=lazymedia",
+        "vast_betweendigital": "https://ads.betweendigital.com/adv?s=4845660&app_name=lazymedia-deluxe&app_domain=lazymedia.deluxe&maxd=300&mind=5&content_type=avod&ad_place_type=preroll&bundle=lazymedia-deluxe",
+        "vast_playmatic_new": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
         "vast_playmatic": "https://vast.playmatic.video/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
         "vast_hdvb": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
     },

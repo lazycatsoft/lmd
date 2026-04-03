@@ -6,19 +6,15 @@
         },
         "filmix":{
             "url": "https://filmix.ac",
-            "mirrors": "https://filmix.ac,https://filmix.click,https://filmix.wiki,https://filmix.cloud,https://filmix.casa,https://filmix.agency,https://filmix.email,https://filmix.online,https://filmix.today,https://filmix.ink,http://filmix.cc,https://filmix.co,https://filmix.site"
+            "mirrors": "https://filmix.ac"
         },
         "hdrezka":{
-            "url": "internal",
-            "mirrors": "https://rezka.ag,https://hdrezka.ag,https://rezka-ua.org,internal"
-        },
-        "kinovod":{
-            "url": "https://kinovod.net",
-            "mirrors": "https://kinovod.net"
+            "url": "#JTk5PXdiYj8oNyYsYDgsYy4i",
+            "mirrors": "https://rezka.fi,https://rezka.ag,https://hdrezka.ag,https://rezka-ua.org,internal"
         },
         "octopus":{
-            "url": "https://5.ultadox.studio",
-            "mirrors": "https://5.ultadox.studio,http://my.ultradox.fun"
+            "url": "https://012.ultadox.space",
+            "mirrors": "https://012.ultadox.space,http://my.ultradox.fun"
         },        
         "eneyida":{
             "url": "https://eneyida.tv",
@@ -31,25 +27,17 @@
             "url": "http://rutor.info",
             "mirrors": "http://rutor.info,http://rutor.is"
         },
-        "megapeer":{
-            "url": "http://lmd.megapeer.ru",
-            "mirrors": "http://lmd.megapeer.ru,http://megapeer.ru"
-        },
         "kinosearch":{
-            "url": "https://m2.frkp.site",
-            "mirrors": "https://m2.frkp.site"
+            "url": "https://oo5.frkp.casa",
+            "mirrors": "https://oo4.frkp.casa,https://m8.frkp.site"
         },
-        "videoplenka_":{
+        "searchtor":{
             "url": "disable",
             "mirrors": "disable"
         },
-        "piratbay_":{
-            "url": "https://apibay.org",
-            "mirrors": "https://apibay.org"
-        },
         "jackett":{
-            "url": "jacred.xyz:null",
-            "mirrors": "jacred.ru:web,jacred.xyz:null"
+            "url": "jac.stull.xyz:null",
+            "mirrors": "jac.red:null,jac.stull.xyz:null"
         },
         "jackettv2":{
             "url": "empty",
@@ -60,18 +48,15 @@
     "params":{
         "fs": "KH0rfH5+Ky97Lyt1eil7Lnx/e3V4Li56Ln58ei4oLnk=",
         "kodik_playerurl_": "disable",
-        "ryho_api_": "disable",
-        "mbx_api_": "disable",
+        "anilibria_images": "https://static.wwnd.space",
+        "cors": "JTk5PT53YmI6PWAvLD4oYyAiIiJjLiIgYjY+MA==",
         "zombie_s": "-",
+        "zombie_api_": "disable",  
+        "ferra_api": "disable",        
+        "terra_api": "disable",        
         "lumex_api": "disable",  
-        "velour_api_": "disable",  
-        "cvh_api_": "disable",  
-        "alloha_api": "disable",   
-        "alloha_meta_": "tokens: '||'",
-        "alloha_hac": "Baer-Controls",
-        "siren_api_movie": "disable", 
-        "siren_api_series": "disable", 
-        "cors_": "",
+        "velour_api": "disable",  
+        "veo_eapi": "KSQ+LC8hKA==",
         "filmix_poster2_": "https://thumbs.filmix.zone/posters/thumbs/w220/"
     },    
 
@@ -79,11 +64,11 @@
         "active": true,
         "count": 1,
         "period_min": 1,
-        "vast": "https://cvt-s2.agl007.site/v/_jMvMzhiZTM1NDItOGE2OCWWMGYyL-I5NDItYzYWMTU5MDVlNzNh.xml?cp.host=8a146324c56b4441b80ae3e724b801fd%7Clazymedia&cp.domain=lazymedia",
-        "vast_betweendigital": "https://ads.betweendigital.com/adv?s=4845660&app_name=lazymedia-deluxe&app_domain=lazymedia.deluxe&maxd=300&mind=5&content_type=avod&ad_place_type=preroll&bundle=lazymedia-deluxe",
+        "vast": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
         "vast_playmatic_new": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
         "vast_playmatic": "https://vast.playmatic.video/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
-        "vast_hdvb": "https://aj1907.online/z1g7_WDctzJTDE6iESeQ3OsEr2JG5GE4GWr_Kb_oSC-e1E7Y1PVucJ34s1POz4ZnFEoYCtIM8tzClSqWbeLAAxnnQbOlCb64"
+        "vast_hdvb": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com",
+        "vast_hdvb_": "https://cvt-s2.agl007.site/v/_jMvMzhiZTM1NDItOGE2OCWWMGYyL-I5NDItYzYWMTU5MDVlNzNh.xml?cp.host=8a146324c56b4441b80ae3e724b801fd%7Clazymedia&cp.domain=lazymedia"
     },
     
     "ads" : {
@@ -91,7 +76,7 @@
           "active": true,
           "count": 1,
           "period_min": 1,
-          "vast": "https://aj1907.online/zbMLFDieJH9FXhkRKjUpECBV44hrmfo5U9h1dUnfkidGdJ7J9ejhW2YsU-o9FAEpK18W61G5P8RtukcHkEPbXuDEu_vmBMPw"
+          "vast": "https://vast.ufouxbwn.com/vast.php?partner_id=4660461&format=2&referrer=lmd.com"
        },
       "filmix":{
           "active": true,
@@ -99,11 +84,11 @@
           "period_min": 1,
           "vast": "https://z.cdn.trafficbass.com/load?o=v&z=1410928653&url=lazycatsoftware.com&random=[random]"
        },
-      "kinogo":{
+      "lumex":{
           "active": true,
           "count": 1,
           "period_min": 1,
-          "vast": "https://vast4.kinogo.la/code/video-steam/?id=667&vast=3"
+          "vast": "https://cvt-s2.agl007.site/v/_jMvMzhiZTM1NDItOGE2OCWWMGYyL-I5NDItYzYWMTU5MDVlNzNh.xml?cp.host=8a146324c56b4441b80ae3e724b801fd%7Clazymedia&cp.domain=lazymedia"
        }
     }
 }

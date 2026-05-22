@@ -7,10 +7,10 @@
     "urls":["http://lazycatsoftware.com/lazymediadeluxe/LazyMediaDeluxe_ver3.xxx.apk"]
   },
   "release": {
-    "version_code":3304,
-    "version_name":"3.304",
-    "date":"20.02.2024",
-    "description":"• [TV][TOUCH] исправления в балансерах и сервисах;\n• [TV][TOUCH] добавлен специализированный anime-балансер anilibra (по умолчанию выключен, активация вручную в настройках сервисов);\n• [TV][TOUCH] удален videodb;\n• [TV][TOUCH] удален lostfilm;;\n• багфиксы;",
-    "urls":["http://sh4618073.c.had.su/apks/LazyMediaDeluxe_ver3.304.apk"]
+    "version_code":3452,
+    "version_name":"3.452",
+    "date":"16.05.2026",
+    "description":"• добавлен новый балансер more/kraft;\n• добавлен новый балансер more/fanserials (доступен только после авторизации в настройках сервисов - аккаунты - fanserials);\n• добавлен новый трекер nnm (по-умолчанию выключен для регионов где он заблокирован);\n• фикс octopus;\n• исправления в балансерах и трекерах;\n• багфиксы;\n\n\Телеграм @lazymediadeluxe_chat\n\n\Защита Google Play может ругаться при установке приложения. В этом случае нужно выбрать пункт Подробнее - Все равно установить в диалоге установки",
+    "urls":["http://188-137-249-26.netherlands-3.vps.ac/apks/LazyMediaDeluxe_ver3.452.apk"]
   }
 }
